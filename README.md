@@ -40,7 +40,7 @@ Este é um **sistema completo de gerenciamento de usuários** desenvolvido com a
 - **Validação em Tempo Real**: Feedback instantâneo durante o preenchimento de formulários
 - **Schema Validation**: Validação de dados com Zod
 - **React Hook Form**: Gerenciamento eficiente de formulários
-- **Mensagens Personalizadas**: Erros claros e em português
+- **Mensagens Personalizadas**: Erros claros e em português.
 
 #### 🛠️ Funcionalidades
 - ✅ **Criar** novos usuários com validação completa
@@ -48,7 +48,7 @@ Este é um **sistema completo de gerenciamento de usuários** desenvolvido com a
 - ✅ **Editar** informações de usuários existentes
 - ✅ **Excluir** usuários com modal de confirmação
 - ✅ **Atualizar** lista em tempo real
-- ✅ **Persistência** de dados via JSON Server
+- ✅ **Persistência** de dados via JSON Server API
 
 #### 🎯 Experiência do Usuário
 - **Modais Inteligentes**: Para criação, edição e exclusão
