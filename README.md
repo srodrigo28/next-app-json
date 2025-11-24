@@ -11,13 +11,13 @@
 
 ### ✨ Tela Home ✨
 
-<img src="./preview/web-home.png" alt="" />
+![Tela Home](preview/web-home.png)
 
 <br />
 
 ### ✨ Tela Modal ✨
 
-<img src="./preview/web-modal.png" alt="" />
+![Tela Modal](preview/web-modal.png)
 
 <br />
 <br />
