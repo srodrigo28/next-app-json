@@ -10,11 +10,15 @@
 **Sistema moderno de CRUD para gerenciamento de usuários com interface premium e validações robustas**
 
 ### ✨ Tela Home ✨
+
 <img src="./preview/web-home.png" alt="" />
+
 <br />
 
 ### ✨ Tela Modal ✨
+
 <img src="./preview/web-modal.png" alt="" />
+
 <br />
 <br />
 
