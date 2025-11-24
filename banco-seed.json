@@ -1,0 +1,124 @@
+{
+    "usuarios": [
+        {
+            "id": "1",
+            "nome": "Ana Carolina Silva",
+            "email": "ana.silva@email.com",
+            "senha": "ana2024"
+        },
+        {
+            "id": "2",
+            "nome": "Bruno Henrique Costa",
+            "email": "bruno.costa@gmail.com",
+            "senha": "bruno123"
+        },
+        {
+            "id": "3",
+            "nome": "Carla Fernandes Santos",
+            "email": "carla.fernandes@hotmail.com",
+            "senha": "carla456"
+        },
+        {
+            "id": "4",
+            "nome": "Daniel Oliveira Souza",
+            "email": "daniel.souza@outlook.com",
+            "senha": "daniel789"
+        },
+        {
+            "id": "5",
+            "nome": "Eduarda Martins Pereira",
+            "email": "eduarda.pereira@yahoo.com",
+            "senha": "eduarda321"
+        },
+        {
+            "id": "6",
+            "nome": "Felipe Rodrigues Lima",
+            "email": "felipe.lima@empresa.com",
+            "senha": "felipe654"
+        },
+        {
+            "id": "7",
+            "nome": "Gabriela Alves Rocha",
+            "email": "gabi.rocha@email.com",
+            "senha": "gabi2024"
+        },
+        {
+            "id": "8",
+            "nome": "Henrique Santos Barbosa",
+            "email": "henrique.barbosa@gmail.com",
+            "senha": "henrique987"
+        },
+        {
+            "id": "9",
+            "nome": "Isabela Ferreira Dias",
+            "email": "isabela.dias@hotmail.com",
+            "senha": "isabela147"
+        },
+        {
+            "id": "10",
+            "nome": "João Pedro Nascimento",
+            "email": "joao.nascimento@outlook.com",
+            "senha": "joao258"
+        },
+        {
+            "id": "11",
+            "nome": "Karina Mendes Cardoso",
+            "email": "karina.cardoso@email.com",
+            "senha": "karina369"
+        },
+        {
+            "id": "12",
+            "nome": "Lucas Vieira Gomes",
+            "email": "lucas.gomes@gmail.com",
+            "senha": "lucas741"
+        },
+        {
+            "id": "13",
+            "nome": "Mariana Costa Ribeiro",
+            "email": "mariana.ribeiro@yahoo.com",
+            "senha": "mariana852"
+        },
+        {
+            "id": "14",
+            "nome": "Nicolas Araújo Teixeira",
+            "email": "nicolas.teixeira@empresa.com",
+            "senha": "nicolas963"
+        },
+        {
+            "id": "15",
+            "nome": "Olivia Carvalho Monteiro",
+            "email": "olivia.monteiro@hotmail.com",
+            "senha": "olivia159"
+        },
+        {
+            "id": "16",
+            "nome": "Paulo Roberto Freitas",
+            "email": "paulo.freitas@gmail.com",
+            "senha": "paulo753"
+        },
+        {
+            "id": "17",
+            "nome": "Rafaela Souza Moreira",
+            "email": "rafaela.moreira@outlook.com",
+            "senha": "rafaela486"
+        },
+        {
+            "id": "18",
+            "nome": "Samuel Correia Batista",
+            "email": "samuel.batista@email.com",
+            "senha": "samuel951"
+        },
+        {
+            "id": "19",
+            "nome": "Tatiana Lopes Castro",
+            "email": "tatiana.castro@yahoo.com",
+            "senha": "tatiana357"
+        },
+        {
+            "id": "20",
+            "nome": "Vinicius Almeida Pinto",
+            "email": "vinicius.pinto@empresa.com",
+            "senha": "vinicius246"
+        }
+    ]
+}

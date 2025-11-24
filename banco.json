@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": "2",
+      "nome": "Carlos Oliveira",
+      "email": "carlos.oliveira@hotmail.com",
+      "senha": "Flamengo2024"
+    },
+    {
+      "id": "3",
+      "nome": "Mariana Santos",
+      "email": "mari.santos.dev@tech.com.br",
+      "senha": "Dev@FullStack"
+    },
+    {
+      "id": "5060",
+      "nome": "Sebastião",
+      "email": "rodrigo@gmail.com",
+      "senha": "123123"
+    },
+    {
+      "id": "0d9b",
+      "nome": "Edson",
+      "email": "edson@gmail.com",
+      "senha": "123123"
+    }
+  ]
+}
